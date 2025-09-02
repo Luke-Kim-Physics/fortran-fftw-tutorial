@@ -1,4 +1,4 @@
-# Fortran FFTW Tutorial 🔬
+# Fortran FFTW Tutorial
 
 This repository contains a simple Fortran program that serves as a tutorial for using the FFTW3 library. The code demonstrates the Discrete Fourier Transform (DFT) of a 3D plane wave and numerically verifies the analytical result.
 
