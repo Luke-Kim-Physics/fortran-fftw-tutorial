@@ -84,7 +84,7 @@ LIB = -L/path/to/your/fftw3/lib -lfftw3
 # ----------------------------------------
 
 TARGET = fftw_test
-SOURCE = fftw_verification_test.f90
+SOURCE = fftw_test.f90
 
 all: $(TARGET)
 
