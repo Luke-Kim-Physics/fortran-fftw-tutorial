@@ -5,7 +5,7 @@ This repository contains a simple Fortran program that serves as a tutorial for 
 It is intended for students and researchers in computational physics, materials science, or any field that requires high-performance Fourier transforms in a compiled language.
 
 ---
-## 📖 Background & Theory
+##  Background & Theory
 
 This section provides a more detailed mathematical background on the concepts demonstrated in the code.
 
@@ -60,7 +60,7 @@ This proves that the DFT of a single discrete plane wave is a single peak with a
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 To compile and run this code, you will need:
 * A Fortran compiler (e.g., `gfortran`, `ifort`, `mpif90`).
@@ -68,7 +68,7 @@ To compile and run this code, you will need:
 
 ---
 
-## 🚀 How to Compile and Run
+##  How to Compile and Run
 
 ### 1. The Makefile
 This repository includes a `Makefile` for easy compilation. Before running `make`, you may need to edit the `INC` and `LIB` variables inside the `Makefile` to match the paths where FFTW3 is installed on your system.
@@ -110,7 +110,7 @@ Run the compiled program:
 
 ---
 
-## 📊 Expected Output & Explanation
+##  Expected Output & Explanation
 
 Running the program should produce the following output. Here is an explanation of what each part means.
 
